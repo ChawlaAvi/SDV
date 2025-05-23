@@ -30,6 +30,13 @@ The **Synthetic Data Vault** (SDV) is a Python library designed to be your one-s
 creating tabular synthetic data. The SDV uses a variety of machine learning algorithms to learn
 patterns from your real data and emulate them in synthetic data.
 
+<div align="center">
+  <img src="https://github.com/ChawlaAvi/SDV/blob/main/sdv%20workflow.gif" alt="ag-ui Logo" style="max-width: 20px; height: auto;" />
+</div>
+
+
+
+
 ## Features
 :brain: **Create synthetic data using machine learning.** The SDV offers multiple models, ranging
 from classical statistical methods (GaussianCopula) to deep learning methods (CTGAN). Generate
